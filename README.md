@@ -1,6 +1,6 @@
-# Photo Pass Uploader
+# Photopass Uploader
 
-Photo Pass Uploader is a small macOS-friendly workflow for sorting and uploading event photos tied to QR-code photo pass cards. (see [this recipe](https://community.rockrms.com/subscriptions/rx2022/digital-photopass-powered-by-rock) for more details on the Rock side)
+Photopass Uploader is a small macOS-friendly workflow for sorting and uploading event photos tied to QR-code photo pass cards. (see [this recipe](https://community.rockrms.com/subscriptions/rx2022/digital-photopass-powered-by-rock) for more details on the Rock side)
 
 The intended photography flow is:
 

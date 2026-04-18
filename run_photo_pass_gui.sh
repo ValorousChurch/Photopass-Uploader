@@ -4,7 +4,7 @@ set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 BUILD_DIR="$SCRIPT_DIR/.build"
-APP_BIN="$BUILD_DIR/Photo Pass GUI"
+APP_BIN="$BUILD_DIR/Photopass Uploader"
 
 mkdir -p "$BUILD_DIR"
 

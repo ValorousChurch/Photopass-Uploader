@@ -504,7 +504,7 @@ struct ContentView: View {
 
     var body: some View {
         VStack(alignment: .leading, spacing: 16) {
-            Text("Photo Pass")
+            Text("Photopass Uploader")
                 .font(.title.bold())
 
             HStack(spacing: 12) {
